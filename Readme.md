@@ -9,7 +9,7 @@
   If you find this work helpful, please support us with your stars⭐ and cite our paper!    
 </p>
 <p align="center">
-  This repo contains the official PyTorch implementation of NLC!      
+  This repo contains the official PyTorch implementation of EXOTIC!      
 </p>
 
 ## 🔥 News
