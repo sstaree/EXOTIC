@@ -17,6 +17,7 @@
 ## 📖 Introduction
 ### Motivation
 Incomplete multi-view data, often caused by sensor failures or occlusions, suffers from limited semantic information due to missing views. Existing Incomplete Multi-View Classification (IMVC) methods primarily rely on mining internal supervision from partially observed data, which inherently constrains their performance ceiling. The key motivation is to break through this limitation by incorporating external knowledge as additional semantic guidance for missing view completion.
+![image](https://github.com/sstaree/EXOTIC/blob/22b0d4a7ff34c0177de002210ea7ecff19f75028/img/introduction.png)
 ### Method
 The proposed Noisy Label Calibration (NLC) method includes:<br>
   &nbsp;&nbsp;1.External Knowledge Construction – builds a vision knowledge library using unlabeled images and a pre-trained vision-language model (BLIP) to extract rich semantic representations.<br>
