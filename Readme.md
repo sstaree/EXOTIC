@@ -23,7 +23,7 @@ The proposed Noisy Label Calibration (NLC) method includes:<br>
   &nbsp;&nbsp;2.Knowledge Filtering – employs a dual-channel decoupling architecture to adaptively select task-relevant external knowledge for each instance while avoiding interference with representation learning.<br>
   &nbsp;&nbsp;3.Knowledge Purification – introduces category alignment loss and and knowledge alignment loss  to reconcile external knowledge with internal representations and mitigate semantic conflicts.<br>
   &nbsp;&nbsp;4.External Completion – leverages purified external knowledge to impute missing views in the second channel, followed by cross-entropy classification loss for final prediction.<br>
-![image](https://github.com/sstaree/NLC/blob/c7cb1299bf996c19cd716a8654ecb95984efbd8c/image/framework.jpg)
+![image](https://github.com/sstaree/EXOTIC/blob/22b0d4a7ff34c0177de002210ea7ecff19f75028/img/framework_01.png)
 
 ### Dataset
 • All dataset can be downloaded at: <br>
